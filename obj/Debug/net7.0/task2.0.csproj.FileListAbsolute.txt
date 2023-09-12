@@ -1,0 +1,16 @@
+/Users/sam/Projects/task2.0/task2.0/bin/Debug/net7.0/task2.0
+/Users/sam/Projects/task2.0/task2.0/bin/Debug/net7.0/Program.cs
+/Users/sam/Projects/task2.0/task2.0/bin/Debug/net7.0/task2.0.deps.json
+/Users/sam/Projects/task2.0/task2.0/bin/Debug/net7.0/task2.0.runtimeconfig.json
+/Users/sam/Projects/task2.0/task2.0/bin/Debug/net7.0/task2.0.dll
+/Users/sam/Projects/task2.0/task2.0/bin/Debug/net7.0/task2.0.pdb
+/Users/sam/Projects/task2.0/task2.0/obj/Debug/net7.0/task2.0.csproj.AssemblyReference.cache
+/Users/sam/Projects/task2.0/task2.0/obj/Debug/net7.0/task2.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/Projects/task2.0/task2.0/obj/Debug/net7.0/task2.0.AssemblyInfoInputs.cache
+/Users/sam/Projects/task2.0/task2.0/obj/Debug/net7.0/task2.0.AssemblyInfo.cs
+/Users/sam/Projects/task2.0/task2.0/obj/Debug/net7.0/task2.0.csproj.CoreCompileInputs.cache
+/Users/sam/Projects/task2.0/task2.0/obj/Debug/net7.0/task2.0.dll
+/Users/sam/Projects/task2.0/task2.0/obj/Debug/net7.0/refint/task2.0.dll
+/Users/sam/Projects/task2.0/task2.0/obj/Debug/net7.0/task2.0.pdb
+/Users/sam/Projects/task2.0/task2.0/obj/Debug/net7.0/task2.0.genruntimeconfig.cache
+/Users/sam/Projects/task2.0/task2.0/obj/Debug/net7.0/ref/task2.0.dll
